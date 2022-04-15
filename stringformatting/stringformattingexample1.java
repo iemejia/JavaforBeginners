@@ -3,7 +3,6 @@ import java.util.StringTokenizer;
 import java.util.StringJoiner;
 import java.util.stream.*;
 import java.util.Arrays;
-import java.util.ArrayList; 
 
 public class stringformattingexample1 {
 

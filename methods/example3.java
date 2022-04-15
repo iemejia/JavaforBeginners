@@ -26,7 +26,7 @@ s2.shareLoop(s2.getSharey(), s2.sharez());
 
 //public static final instance variable f = public to the class and to all instances
 //it can be called here even if it is not initialized 
-System.out.println("Ex 3 Value of public final (constant) f is: " + s2.f);
+System.out.println("Ex 3 Value of public final (constant) f is: " + shareLoop.f);
 
 }
 }
